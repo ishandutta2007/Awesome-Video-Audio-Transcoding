@@ -30,6 +30,7 @@
 - [⚡ Quick Reference: Essential FFmpeg Transcoding Recipes](#-quick-reference-essential-ffmpeg-transcoding-recipes)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
 - [📈 Star History](#star-history)
 - [📜 Disclaimer &amp; License](#-disclaimer--license)
 
@@ -262,6 +263,27 @@ Contributions to expand and update this guide are welcome!
 3. 📝 **Add or update entries** in `README.md` following the existing format.
 4. 🔍 Ensure links are active and pricing/star counts are accurate.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
+
+---
+
+## 💖 Support
+
+A heartfelt **thank you** to everyone exploring, using, and contributing to the **Awesome Video & Audio Transcoding** ecosystem! Maintaining this curated directory with up-to-date pricing, benchmarks, and codec developments takes ongoing dedication.
+
+If you find this repository helpful, please consider supporting it:
+- ⭐ **Star this repository** on GitHub to boost visibility.
+- 🍴 **Fork & Contribute** tools, recipes, and updates.
+- 📢 **Share** with colleagues, developers, and media engineers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support continued open-source curation and development via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 ---
 
