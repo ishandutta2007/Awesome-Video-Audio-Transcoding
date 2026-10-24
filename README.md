@@ -7,7 +7,7 @@
 # 🎬 Awesome Video &amp; Audio Transcoding 🎵
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Video-Audio-Transcoding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Audio-Transcoding?style=for-the-badge&logo=github&color=gold" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Video-Audio-Transcoding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Video-Audio-Transcoding?style=for-the-badge&logo=github&color=gold" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Video-Audio-Transcoding/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Video-Audio-Transcoding?style=for-the-badge&logo=github&color=orange" alt="GitHub Forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Video-Audio-Transcoding/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Video-Audio-Transcoding/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/></a>
@@ -65,9 +65,9 @@ The table below lists the industry's premier commercial and cloud video/audio tr
 
 ## 💻 Open-Source GitHub Projects
 
-The leading open-source transcoders, GUIs, distributed cluster systems, and media engines, **strictly sorted in descending order of GitHub star count**.
+The leading open-source transcoders, GUIs, distributed cluster systems, and media engines, **strictly sorted in descending order of GitHub Stars_Count**.
 
-### 1. [FFmpeg](https://ffmpeg.org/) [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)
+### 1. [FFmpeg](https://ffmpeg.org/) [![GitHub_Stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white)](https://github.com/FFmpeg/FFmpeg/stargazers)
 - **Repository**: [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
 - **License**: LGPL-2.1+ / GPL-2.0+
 - **Overview**: The undisputed universal foundation of modern digital media. A complete, hyper-optimized cross-platform CLI solution to record, convert, filter, mux, demux, and stream virtually every video and audio format known to humanity. Almost every modern desktop converter, streaming server, and browser engine interfaces with `libavcodec` and `libavformat` under the hood.
@@ -75,7 +75,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 2. [LosslessCut](https://mifi.no/lossless-cut/) [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)
+### 2. [LosslessCut](https://mifi.no/lossless-cut/) [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)
 - **Repository**: [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
 - **License**: GPL-2.0
 - **Overview**: The ultimate Swiss Army knife for extremely fast, lossless trimming, splitting, and merging of video and audio files without re-encoding. By operating strictly at codec keyframe boundaries, large multi-gigabyte camera or drone files are sliced in seconds without generation loss.
@@ -83,7 +83,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 3. [HandBrake](https://handbrake.fr/) [![GitHub stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)
+### 3. [HandBrake](https://handbrake.fr/) [![GitHub_Stars](https://img.shields.io/github/stars/HandBrake/HandBrake?style=social&color=white)](https://github.com/HandBrake/HandBrake/stargazers)
 - **Repository**: [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
 - **License**: GPL-2.0
 - **Overview**: The gold standard in open-source desktop video transcoders. HandBrake wraps high-level FFmpeg and x264/x265/SVT-AV1 encoders behind an accessible yet powerful interface, packed with well-tuned presets for social media, mobile devices, home theaters, and web delivery.
@@ -91,7 +91,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 4. [Tdarr](https://tdarr.io/) [![GitHub stars](https://img.shields.io/github/stars/HaveAGitGat/Tdarr?style=social&color=white)](https://github.com/HaveAGitGat/Tdarr/stargazers)
+### 4. [Tdarr](https://tdarr.io/) [![GitHub_Stars](https://img.shields.io/github/stars/HaveAGitGat/Tdarr?style=social&color=white)](https://github.com/HaveAGitGat/Tdarr/stargazers)
 - **Repository**: [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr)
 - **License**: Open Source Core / Freeware
 - **Overview**: A conditional media transcoding automation platform designed for massive local or networked media libraries. Operates on a distributed client/server architecture where worker nodes on multiple machines collaborate to transcode, re-mux, and clean library files automatically.
@@ -99,7 +99,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 5. [rav1e](https://github.com/xiph/rav1e) [![GitHub stars](https://img.shields.io/github/stars/xiph/rav1e?style=social&color=white)](https://github.com/xiph/rav1e/stargazers)
+### 5. [rav1e](https://github.com/xiph/rav1e) [![GitHub_Stars](https://img.shields.io/github/stars/xiph/rav1e?style=social&color=white)](https://github.com/xiph/rav1e/stargazers)
 - **Repository**: [xiph/rav1e](https://github.com/xiph/rav1e)
 - **License**: BSD-2-Clause
 - **Overview**: The fastest, safest pure-Rust AV1 video encoder engineered by Xiph.Org and the Mozilla foundation. Designed to provide a memory-safe, thread-safe, and highly predictable encoding engine for modern next-generation media workflows.
@@ -107,7 +107,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 6. [GPAC (MP4Box)](https://gpac.io/) [![GitHub stars](https://img.shields.io/github/stars/gpac/gpac?style=social&color=white)](https://github.com/gpac/gpac/stargazers)
+### 6. [GPAC (MP4Box)](https://gpac.io/) [![GitHub_Stars](https://img.shields.io/github/stars/gpac/gpac?style=social&color=white)](https://github.com/gpac/gpac/stargazers)
 - **Repository**: [gpac/gpac](https://github.com/gpac/gpac)
 - **License**: LGPL-2.1
 - **Overview**: An open-source multimedia framework specializing in packaging, streaming, and multiplexing digital content. Best known for `MP4Box`, the reference tool for MP4 container manipulation, MPEG-DASH segmentation, and CMAF generation.
@@ -115,7 +115,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 7. [StaxRip](https://staxrip.info/) [![GitHub stars](https://img.shields.io/github/stars/staxrip/staxrip?style=social&color=white)](https://github.com/staxrip/staxrip/stargazers)
+### 7. [StaxRip](https://staxrip.info/) [![GitHub_Stars](https://img.shields.io/github/stars/staxrip/staxrip?style=social&color=white)](https://github.com/staxrip/staxrip/stargazers)
 - **Repository**: [staxrip/staxrip](https://github.com/staxrip/staxrip)
 - **License**: MIT
 - **Overview**: A power-user video encoding GUI for Windows. It acts as an orchestrator uniting AviSynth and VapourSynth frame servers with leading CLI encoders such as x264, x265, SVT-AV1, and hardware encoders.
@@ -123,7 +123,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 8. [Shutter Encoder](https://www.shutterencoder.com/) [![GitHub stars](https://img.shields.io/github/stars/paulpacifico/shutter-encoder?style=social&color=white)](https://github.com/paulpacifico/shutter-encoder/stargazers)
+### 8. [Shutter Encoder](https://www.shutterencoder.com/) [![GitHub_Stars](https://img.shields.io/github/stars/paulpacifico/shutter-encoder?style=social&color=white)](https://github.com/paulpacifico/shutter-encoder/stargazers)
 - **Repository**: [paulpacifico/shutter-encoder](https://github.com/paulpacifico/shutter-encoder)
 - **License**: GPL-3.0
 - **Overview**: A Swiss Army knife converter built for video editors, broadcasters, and post-production professionals. Built directly on top of FFmpeg, it exposes complex video transformations as intuitive one-click actions.
@@ -131,7 +131,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 9. [Unmanic](https://unmanic.app/) [![GitHub stars](https://img.shields.io/github/stars/Unmanic/unmanic?style=social&color=white)](https://github.com/Unmanic/unmanic/stargazers)
+### 9. [Unmanic](https://unmanic.app/) [![GitHub_Stars](https://img.shields.io/github/stars/Unmanic/unmanic?style=social&color=white)](https://github.com/Unmanic/unmanic/stargazers)
 - **Repository**: [Unmanic/unmanic](https://github.com/Unmanic/unmanic)
 - **License**: GPL-3.0
 - **Overview**: An open-source background library optimizer and video/audio transcoder. It monitors directories for incoming media files and automatically triggers transcoding queues to normalize formats, reduce disk footprints, and conform codecs.
@@ -139,7 +139,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 10. [fre:ac](https://freac.org/) [![GitHub stars](https://img.shields.io/github/stars/enzo1982/freac?style=social&color=white)](https://github.com/enzo1982/freac/stargazers)
+### 10. [fre:ac](https://freac.org/) [![GitHub_Stars](https://img.shields.io/github/stars/enzo1982/freac?style=social&color=white)](https://github.com/enzo1982/freac/stargazers)
 - **Repository**: [enzo1982/freac](https://github.com/enzo1982/freac)
 - **License**: GPL-2.0
 - **Overview**: The premier free and open-source audio converter and CD ripper for Windows, Linux, and macOS. Excels at high-speed multithreaded audio format conversion, metadata tagging, and lossless CD preservation.
@@ -147,7 +147,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 11. [FastFlix](https://fastflix.org/) [![GitHub stars](https://img.shields.io/github/stars/cdgriffith/FastFlix?style=social&color=white)](https://github.com/cdgriffith/FastFlix/stargazers)
+### 11. [FastFlix](https://fastflix.org/) [![GitHub_Stars](https://img.shields.io/github/stars/cdgriffith/FastFlix?style=social&color=white)](https://github.com/cdgriffith/FastFlix/stargazers)
 - **Repository**: [cdgriffith/FastFlix](https://github.com/cdgriffith/FastFlix)
 - **License**: MIT
 - **Overview**: A friendly yet advanced GUI for FFmpeg, Rigaya encoders, and SVT-AV1. Built specifically with modern 10-bit HDR encoding workflows in mind, retaining HDR10, HDR10+, and Dolby Vision metadata.
@@ -155,7 +155,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 12. [NVEnc](https://github.com/rigaya/NVEnc) [![GitHub stars](https://img.shields.io/github/stars/rigaya/NVEnc?style=social&color=white)](https://github.com/rigaya/NVEnc/stargazers)
+### 12. [NVEnc](https://github.com/rigaya/NVEnc) [![GitHub_Stars](https://img.shields.io/github/stars/rigaya/NVEnc?style=social&color=white)](https://github.com/rigaya/NVEnc/stargazers)
 - **Repository**: [rigaya/NVEnc](https://github.com/rigaya/NVEnc)
 - **License**: MIT
 - **Overview**: High-speed standalone GPU encoding application utilizing NVIDIA NVENC hardware. Highly regarded in the video processing community for raw performance and granular control over NVIDIA hardware encoder pipelines.
@@ -163,7 +163,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 13. [BMF (Babit Multimedia Framework)](https://babitmf.github.io/) [![GitHub stars](https://img.shields.io/github/stars/BabitMF/bmf?style=social&color=white)](https://github.com/BabitMF/bmf/stargazers)
+### 13. [BMF (Babit Multimedia Framework)](https://babitmf.github.io/) [![GitHub_Stars](https://img.shields.io/github/stars/BabitMF/bmf?style=social&color=white)](https://github.com/BabitMF/bmf/stargazers)
 - **Repository**: [BabitMF/bmf](https://github.com/BabitMF/bmf)
 - **License**: Apache-2.0
 - **Overview**: ByteDance's industrial multimedia framework engineered to process billions of videos daily at hyperscale. Decouples video decoding, AI inference, and GPU transcoding into high-performance graph pipelines.
@@ -171,7 +171,7 @@ The leading open-source transcoders, GUIs, distributed cluster systems, and medi
 
 ---
 
-### 14. [Avidemux](http://avidemux.sourceforge.net/) [![GitHub stars](https://img.shields.io/github/stars/mean00/avidemux2?style=social&color=white)](https://github.com/mean00/avidemux2/stargazers)
+### 14. [Avidemux](http://avidemux.sourceforge.net/) [![GitHub_Stars](https://img.shields.io/github/stars/mean00/avidemux2?style=social&color=white)](https://github.com/mean00/avidemux2/stargazers)
 - **Repository**: [mean00/avidemux2](https://github.com/mean00/avidemux2)
 - **License**: GPL-2.0
 - **Overview**: A classic, lightweight video editor and transcoder designed for quick cuts, basic filtering, and format encoding. An ideal minimalist tool when launching a full timeline NLE is overkill.
@@ -261,7 +261,7 @@ Contributions to expand and update this guide are welcome!
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a new branch**: `git checkout -b feature/new-tool-entry`
 3. 📝 **Add or update entries** in `README.md` following the existing format.
-4. 🔍 Ensure links are active and pricing/star counts are accurate.
+4. 🔍 Ensure links are active and pricing/Stars_Counts are accurate.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
 
 ---
