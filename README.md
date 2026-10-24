@@ -1,6 +1,6 @@
 # Awesome-Video-Audio-Transcoding
 
-# Top Video & Audio Transcoding Tools Ecosystem
+## Top Video & Audio Transcoding Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Hardware-Accelerated Encoding, Batch Processing & FFmpeg-Powered GUIs*  
